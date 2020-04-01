@@ -1,0 +1,11 @@
+if(3*a*(z+5)==15 or a+b*c/(3+1)==10 and x*r/(e+1)==10)
+{
+	<Sentencias_1>
+}else{
+	if(3*a*(z+5)==15 or a+b*c/(3+1)==10 and x*r/(e+1)==10)
+	{
+		<Sentencias_2>
+	}else{
+		<Sentencias_3>
+	}
+}
